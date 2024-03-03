@@ -1,2 +1,2 @@
-# Rent Keeper
- Follow monthly payments 
+# Dice Generator for enjoying games without physical dice
+ 
